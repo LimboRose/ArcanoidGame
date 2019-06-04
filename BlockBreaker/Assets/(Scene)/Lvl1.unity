@@ -963,6 +963,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   paddle1: {fileID: 2015518295}
+  xpush: 3
+  ypush: 15
+  hasStarted: 0
+  rb: {fileID: 1223983693}
 --- !u!1 &1423611268
 GameObject:
   m_ObjectHideFlags: 0
